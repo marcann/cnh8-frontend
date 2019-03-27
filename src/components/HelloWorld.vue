@@ -126,7 +126,7 @@
       whatsNext: [
         {
           text: 'Explore components',
-          href: 'https://vuetifyjs.com/components/api-explorer'
+          href: 'https://vuetifyjs.com/components/config-explorer'
         },
         {
           text: 'Select a layout',
